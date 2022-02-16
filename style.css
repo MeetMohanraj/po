@@ -1,0 +1,21 @@
+.header{
+    font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+.note{
+    font-size: 18px;
+    color: red;
+}
+body{
+    background-size: cover;
+}
+
+.play{
+    width: 200px;
+    font-size: 30px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
